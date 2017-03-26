@@ -1,6 +1,6 @@
 {
   "name": "jquery.plugin-from-data-attr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "can replace the jquery plugin parameters with data attributes",
   "author": {
     "name": "kamem",
