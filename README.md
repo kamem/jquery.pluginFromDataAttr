@@ -18,11 +18,11 @@ Specification
 -----
 * If there is a plug-in as described below.
 
-		$('.tab').tab{
+		$('.tab').tab({
 			timer: 1000,
 			num: 1,
 			isSessionStorage: true
-		};
+		});
 
 * you can use instead the data attribute of HTML as described below.
 

@@ -17,11 +17,11 @@ jquery.pluginFromDataAttr
 -----
 * 下記のようなプラグインがあった場合に
 
-		$('.tab').tab{
+		$('.tab').tab({
 			timer: 1000,
 			num: 1,
 			isSessionStorage: true
-		};
+		});
 
 * 下記のようにHTMLのdata属性を代わりに使うことができます。
 
