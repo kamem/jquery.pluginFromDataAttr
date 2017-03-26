@@ -9,6 +9,11 @@ I made a jQuery plug-in that you can use the parameters specified in the data-* 
 
 [DEMO](http://github.develo.org/jquery.pluginFromDataAttr/)
 
+Install
+-----
+
+	npm install jquery.plugin-from-data-attr
+
 Specification
 -----
 * If there is a plug-in as described below.

@@ -8,6 +8,11 @@ jquery.pluginFromDataAttr
 
 [DEMO](http://github.develo.org/jquery.pluginFromDataAttr/)
 
+インストール
+-----
+
+	npm install jquery.plugin-from-data-attr
+
 仕様
 -----
 * 下記のようなプラグインがあった場合に
