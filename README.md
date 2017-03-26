@@ -7,8 +7,7 @@ If you want to operate in a different page and a plurality of plug
 Because I thought this cumbersome and is not do unless you do not re-specified by preparing a js bother
 I made a jQuery plug-in that you can use the parameters specified in the data-* instead.
 
-[DEMO]
-[DEMO]: https://github.com/kamem/jquery.pluginFromDataAttr
+[DEMO](http://github.develo.org/jquery.pluginFromDataAttr/)
 
 Specification
 -----
@@ -45,6 +44,3 @@ Usage
 
 		<p class="tab" data-timer="1000" data-num="1" is-session-storage="true">
 
-
-[clover.blue]: http://clover.blue/ "clover.blue"
-[MIT]: http://www.opensource.org/licenses/mit-license.php

@@ -6,8 +6,7 @@ jquery.pluginFromDataAttr
 
 その代わりにdata-*でパラメーターを指定して使うことができるjQueryプラグインです。
 
-[DEMO]
-[DEMO]: https://github.com/kamem/jquery.pluginFromDataAttr
+[DEMO](http://github.develo.org/jquery.pluginFromDataAttr/)
 
 仕様
 -----
@@ -43,7 +42,3 @@ jquery.pluginFromDataAttr
 3. HTMLにdata属性を記述する（キャメルケースの場合「-」でつなげる）※ is-session-storage = isSessionStorage
 
 		<p class="tab" data-timer="1000" data-num="1" is-session-storage="true">
-
-
-[clover.blue]: http://clover.blue/ "clover.blue"
-[MIT]: http://www.opensource.org/licenses/mit-license.php
